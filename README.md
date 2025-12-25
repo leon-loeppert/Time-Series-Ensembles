@@ -22,7 +22,7 @@ To use TimeTango, follow these steps:
 
 1. Clone the repository:
    ```bash
-    git clone https://github.com/Paul-Jarschke/Time-Series-Ensembles.git
+    git clone https://github.com/leon-loeppert/Time-Series-Ensembles.git
    ```
 2. Navigate to the cloned directory:
     ```bash
